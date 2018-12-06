@@ -1,5 +1,15 @@
+* {
+font-family: 'Aclonica', sans-serif;
+}
+
 p {
 color: #FFF;
   font-size: 18px;
-  font-family: "bourgeois-light";
+  font-family: 'Aclonica', sans-serif;
+}
+
+h3 {
+padding: 12px;
+  margin: 20px;
+  font-weight: bold;
 }
