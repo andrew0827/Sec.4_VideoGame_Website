@@ -1,3 +1,7 @@
 div.TitleAuthor h1 {
   color: red;
 }
+
+nav.NavigationalBar li {
+  display: inline;
+}
