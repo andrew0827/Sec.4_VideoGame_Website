@@ -11,7 +11,7 @@ div.NavigationalBar ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #d11212;
+  background-color: #333;
 }
 
 div.NavigationalBar li {
@@ -24,4 +24,12 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+.active {
+  color: #8426ef;
+}
+
+.active a:hover:not {
+   color: #1121;
 }
