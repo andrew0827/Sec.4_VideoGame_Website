@@ -13,8 +13,15 @@ color: #FFF;
   font-family: 'Aclonica', sans-serif;
 }
 
+.title {
+color: #FFF;
+  font-size: 35px;
+  text-align: center;
+}
+
 h3 {
 padding: 12px;
   margin: 20px;
   font-weight: bold;
+  color: #FFA500;
 }
