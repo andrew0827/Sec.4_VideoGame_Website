@@ -1,3 +1,8 @@
+* {
+  font-family: Times New Roman;
+}
+
+
 div.TitleAuthor h1 {
   color: red;
 }
