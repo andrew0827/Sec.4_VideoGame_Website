@@ -38,3 +38,28 @@ a.active {
 .active a:hover:not {
    color: #1121;
 }
+
+.asidenav {
+  border-style: solid;
+  border-width: 5px;
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 15px;
+  overflow: hidden
+  padding: 8px 0;
+}
+
+.asidenav a {
+    padding: 4px 6px 4px 12px;
+    font-size: 26px;
+    color: #1391f4;
+    display: block;
+}
+
+main {
+    margin-left: 140px;
+    padding: 0px 10px;
+}
+
