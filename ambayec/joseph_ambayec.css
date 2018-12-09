@@ -45,7 +45,7 @@ a.active {
   width: 130px;
   position: fixed;
   z-index: 1;
-  top: 20px;
+  top: 50px;
   left: 15px;
   overflow: hidden
   padding: 8px 0;
