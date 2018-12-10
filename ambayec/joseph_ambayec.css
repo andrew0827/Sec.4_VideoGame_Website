@@ -7,7 +7,7 @@ li {
 }
 
 div.TitleAuthor h1 {
-  colour: red;
+  color: red;
 }
 
 div.NavigationalBar li {
@@ -28,18 +28,18 @@ div.NavigationalBar li {
 
 .NavigationalBar li a {
   display: block;
-  colour: white;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 a.active {
-  background-colour: #8426ef;
+  background-color: #8426ef;
 }
 
 .active a:hover:not {
-   colour: #1121;
+   color: #1121;
 }
 
 .asidenav {
@@ -51,6 +51,8 @@ a.active {
     background: #eee;
     overflow-x: hidden;
     padding: 8px 0;
+    border-style: solid;
+    border-width: 5px;
 }
 
 
@@ -59,14 +61,14 @@ a.active {
     text-decoration: none;
     font-size: 15px;
     list-style-type: none;
-    colour: #2197F3;
+    color: #2197F3;
     display: block;
     padding: 0px;
 }
 
 .asidenav h2{
   text-align: center;
-  colour: #4c5b72;
+  color: #4c5b72;
 }
 
 main {
