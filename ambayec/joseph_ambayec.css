@@ -79,3 +79,12 @@ main {
 .asidenav ul{
  padding: 0px;
 }
+
+.ReviewText p {
+ font-size: 20px; 
+}
+
+.PCTable {
+  font-size: 15px;
+}
+
